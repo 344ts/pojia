@@ -1,6 +1,5 @@
 # pojia
-workbuddy破甲、Devin 破甲、Qoder 破甲、智能体破甲。deepseek破甲、glm破甲、gpt破甲
-不要问我能做哪些自己测，下面的能做的，只是冰山一角。
+workbuddy破甲、Devin 破甲、Qoder 破甲、智能体破甲。deepseek破甲、glm破甲、gpt破甲<br>不要问我能做哪些自己测，下面的能做的，只是冰山一角。
 # qq群：474510597
 <img width="500" height="800" alt="qrcode_1792663845843" src="https://github.com/user-attachments/assets/03cec624-5a35-4d4c-9039-bce4f6a0306f" />
 <img width="1005" height="1242" alt="b5227c425e4ca6b7170a8506f387c660" src="https://github.com/user-attachments/assets/9f69f2ad-de4f-472b-9789-d3e45818e479" />
