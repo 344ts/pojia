@@ -4,8 +4,8 @@ workbuddy破甲、Devin 破甲、Qoder 破甲、智能体破甲。deepseek破甲
 # 有几个傻子偷我下面的图，如果发现类似都别信
 # 有几个傻子偷我下面的图，如果发现类似都别信
 
-# qq群：474510597
-<img width="500" height="800" alt="qrcode_1792838069353" src="https://github.com/user-attachments/assets/165f9b6d-0348-4f48-a869-0c6e250ca9f9" />
+# qq群：127191559
+<img width="500" height="800" alt="qrcode_1793677000563" src="https://github.com/user-attachments/assets/38d72ca0-37ad-4f67-9e7a-1bd8614d20d2" />
 <img width="1005" height="1242" alt="b5227c425e4ca6b7170a8506f387c660" src="https://github.com/user-attachments/assets/9f69f2ad-de4f-472b-9789-d3e45818e479" />
 <img width="794" height="680" alt="e50255ee7e52567613a499a97d07967e" src="https://github.com/user-attachments/assets/672a63ef-b5f6-4eca-9f41-5f1cd6a557cc" />
 <img width="835" height="677" alt="6bf1ac644e1377adb11be3f975f83fd8" src="https://github.com/user-attachments/assets/a5b7e03c-655c-4a40-8def-10b769378d54" />
