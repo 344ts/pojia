@@ -2,7 +2,7 @@
 
 # pojia · 就爱破甲
 
-**workbuddy破甲 · Devin破甲 · Qoder破甲 · 智能体破甲 · deepseek破甲 · glm破甲 · gpt破甲**
+**workbuddy破甲 · Devin破甲 · Qoder破甲 · 智能体破甲 · deepseek破甲 · glm破甲 · gpt破甲 · CodeBuddy破甲**
 windsurf破甲 · codeium破甲 · zcode破甲 · cursor破甲 · trae破甲 · claude code破甲 · copilot破甲 · AI编程助手破甲 · AI编辑器破甲 · 智能体越狱 · AI越狱 · 智能体解锁 · AI解锁 · 破甲教程 · 破甲工具
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6)]()
