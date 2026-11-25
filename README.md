@@ -7,7 +7,7 @@ windsurf破甲 · codeium破甲 · zcode破甲 · cursor破甲 · trae破甲 · 
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6)]()
 [![Tech](https://img.shields.io/badge/stack-Go%20%2B%20Wails%20%2B%20Vue-00ADD8)]()
-[![QQ群](https://img.shields.io/badge/QQ群-542845951-EB1923)](https://qm.qq.com/q/I20RXhScq6)
+[![QQ群](https://img.shields.io/badge/QQ群-237146828-EB1923)](https://qm.qq.com/q/I20RXhScq6)
 
 一款 Windows 桌面工具，一键给主流 AI 编程智能体「破甲」。
 WorkBuddy、Qoder、Devin、ZCode、DeepSeek Harness 全覆盖，开关即破甲、关闭即还原，不残留任何改动。
@@ -17,15 +17,15 @@ WorkBuddy、Qoder、Devin、ZCode、DeepSeek Harness 全覆盖，开关即破甲
 
 ## 下载地址
 
-QQ群：542845951
+QQ群：237146828
 
-点击链接加入群聊：https://qm.qq.com/q/I20RXhScq6
+点击链接加入群聊：https://qm.qq.com/q/rVypOVRyNO
 
 <img width="500" height="800" alt="qrcode_1793677000563" src="https://github.com/user-attachments/assets/04ad1caf-5208-49a3-8145-ab5a3aeda2b9" />
 
 ## 有几个傻子偷我下面的图，如果发现类似都别信
 
-<img width="1005" height="1242" alt="b5227c425e4ca6b7170a8506f387c660" src="https://github.com/user-attachments/assets/9f69f2ad-de4f-472b-9789-d3e45818e479" />  
+<img width="1005" height="1242" alt="qrcode_1795621105928" src="https://github.com/user-attachments/assets/8b11e856-e9e1-4ff2-94ef-09b7090b2f1a" />
 <img width="794" height="680" alt="e50255ee7e52567613a499a97d07967e" src="https://github.com/user-attachments/assets/672a63ef-b5f6-4eca-9f41-5f1cd6a557cc" />
 <img width="835" height="677" alt="6bf1ac644e1377adb11be3f975f83fd8" src="https://github.com/user-attachments/assets/a5b7e03c-655c-4a40-8def-10b769378d54" />
 <img width="901" height="467" alt="image" src="https://github.com/user-attachments/assets/3ac54a56-6bc4-4721-9447-36e404d283c9" />
